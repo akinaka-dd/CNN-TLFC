@@ -26,8 +26,8 @@ Train the entire model (ResNet18+ImageNet) with new data.
 ## TEM (Transmission electron microscope) image
 <table>
 <tr>
-<td><img width="200px" src="img/MCM-Pt852-1232-x11500_sample_2k.jpg"></td>
-<td><img width="200px" src="img/MCM-Pt852-1232-x11500_predict_grid_2k.jpg"></td>
-<td><img width="200px" src="img/MCM-Pt852-1232-x11500_predict_rect_2k.jpg"></td>
+<td><img width="200px" src="img/TEM/MCM-Pt852-1232-x11500_sample_2k.jpg"></td>
+<td><img width="200px" src="img/TEM/MCM-Pt852-1232-x11500_predict_grid_2k.jpg"></td>
+<td><img width="200px" src="img/TEM/MCM-Pt852-1232-x11500_predict_rect_2k.jpg"></td>
 </tr>
 </table>

@@ -1,4 +1,4 @@
-# CNN-TLFC
+# CNN-TLFT
 **Transfer learning (Fine-tuning) of a CNN model**
 
 ## H&E stain image

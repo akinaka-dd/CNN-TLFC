@@ -2,7 +2,9 @@
 **Transfer learning (Fine-tuning) of a CNN model**
 
 ## H&E stain image
-### Transfer learning
+### Transfer learning (in its narrow sense)
+Train the last layer of the model with new data.
+
 <table>
 <tr>
 <td><img width="200px" src="img/FFPE_LUAD_3_B_x10_sample_2k.jpg"></td>
@@ -12,7 +14,7 @@
 </table>
 
 ### Fine-tuning
-
+Train the entire model with new data.
 
 ## TEM (Transmission electron microscope) image
 <table>
